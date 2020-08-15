@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.maverick.saar",
-    "sha256_cert_fingerprints":
-    ["B0:55:52:9D:56:8A:56:00:E6:22:89:E7:16:B4:BA:78:31:20:2A:B6:42:8A:36:20:63:2E:9E:0E:D2:33:57:1F"]
-  }
-}]
